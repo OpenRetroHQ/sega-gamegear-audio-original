@@ -54,7 +54,7 @@
         (number "7" (effects (font (size 1.016 1.016))))
       )
       (pin input line (at -12.7 11.43 0) (length 5.08)
-        (name "+I2" (effects (font (size 1.016 1.016))))
+        (name "-I1" (effects (font (size 1.016 1.016))))
         (number "8" (effects (font (size 1.016 1.016))))
       )
     )

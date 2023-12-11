@@ -60,4 +60,9 @@
   (pad "6" thru_hole circle (at 5 2.5) (size 1.6 1.6) (drill 0.999998) (layers "*.Cu" "*.Mask") (tstamp 41f86700-3027-4f03-b6fb-63cadfbed50a))
   (pad "10" thru_hole oval (at 0 2.5) (size 2 1.2) (drill oval 1.499997 0.799998) (layers "*.Cu" "*.Mask") (tstamp e63a533b-7446-4cc0-9091-eeced6823927))
   (pad "11" thru_hole oval (at 0 -2.5) (size 2 1.2) (drill oval 1.575029 0.799998) (layers "*.Cu" "*.Mask") (tstamp c2e93be4-8438-4a40-9293-6a497c8b4533))
+  (model "${KIPRJMOD}/libraries/3dmodels/PJ-307A.stp"
+    (offset (xyz -8.5 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 90))
+  )
 )
