@@ -6,7 +6,7 @@
     (property "Value" "10uF" (at 0 3.81 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "C0603" (at -2.54 -5.08 0)
+    (property "Footprint" "Sega GameGear Audio Board Original:C0603" (at -2.54 -5.08 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_muRata_GRM188R61A106KE69D_10uF-106-10-10V_C77044.html" (at 0 -7.62 0)

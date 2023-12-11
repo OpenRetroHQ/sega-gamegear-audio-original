@@ -6,7 +6,7 @@
     (property "Value" "0.1uF" (at -2.54 3.81 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
-    (property "Footprint" "C0603" (at -10.16 -3.81 0)
+    (property "Footprint" "Sega GameGear Audio Board Original:C0603" (at -10.16 -3.81 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (property "Datasheet" "http://componentsearchengine.com/Datasheets/1/GRM188R72A104KA35J.pdf" (at -34.29 -7.62 0)

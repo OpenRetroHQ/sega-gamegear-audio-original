@@ -122,4 +122,9 @@
   (pad "6" smd rect (at 2.7305 0.635) (size 1.8542 0.5588) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d7354f84-c851-4f6b-949b-ff3e3741a824))
   (pad "7" smd rect (at 2.7305 -0.635) (size 1.8542 0.5588) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 8274cc16-e9cd-462a-b7cb-9c3a2b64aa41))
   (pad "8" smd rect (at 2.7305 -1.905) (size 1.8542 0.5588) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5e723d06-6e5f-42b5-ab03-9073756cfb7b))
+  (model "${KIPRJMOD}/libraries/3dmodels/TDA2822D.stp"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )

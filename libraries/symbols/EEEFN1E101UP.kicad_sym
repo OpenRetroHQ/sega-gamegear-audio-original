@@ -6,7 +6,7 @@
     (property "Value" "100uF" (at -2.54 3.81 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
-    (property "Footprint" "EEEFN1E101UP" (at -6.35 -3.81 0)
+    (property "Footprint" "Sega GameGear Audio Board Original:C63D" (at -6.35 -3.81 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (property "Datasheet" "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/RDE0000C1259.pdf" (at -36.83 -7.62 0)
