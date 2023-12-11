@@ -59,8 +59,10 @@
     (stroke (width 0.05) (type default)) (layer "F.CrtYd") (tstamp 239e6bfa-01b0-4d75-a8df-20b4bf4746bf))
   (fp_line (start 5 1.18) (end 4.04 1.18)
     (stroke (width 0.05) (type default)) (layer "F.CrtYd") (tstamp e032ed67-1e89-43d0-92ca-6ca79b4a859f))
-  (pad "1" smd rect (at -2.67 0) (size 3.5 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e8709e60-51cf-4ea1-8328-22dedf2b5dde))
-  (pad "2" smd rect (at 2.67 0) (size 3.5 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b6dd9bed-4868-47ca-a8e2-39ca555d54c4))
+  (pad "1" smd rect (at -2.67 0) (size 3.5 1.2) (layers "F.Cu" "F.Paste" "F.Mask")
+    (solder_mask_margin 0.102) (tstamp e8709e60-51cf-4ea1-8328-22dedf2b5dde))
+  (pad "2" smd rect (at 2.67 0) (size 3.5 1.2) (layers "F.Cu" "F.Paste" "F.Mask")
+    (solder_mask_margin 0.102) (tstamp b6dd9bed-4868-47ca-a8e2-39ca555d54c4))
   (model "${KIPRJMOD}/libraries/3dmodels/C63D.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
