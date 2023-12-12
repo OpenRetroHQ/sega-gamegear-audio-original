@@ -1371,7 +1371,7 @@
   (symbol (lib_id "292161-6:292161-6") (at 26.67 91.44 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 198e03a3-2fb9-4566-b49e-339a697f959b)
-    (property "Reference" "CN2" (at 33.02 81.28 0)
+    (property "Reference" "CN1" (at 33.02 81.28 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "292161-6" (at 21.59 80.01 0)
@@ -1392,7 +1392,7 @@
     (instances
       (project "sega-gamegear-audio-original"
         (path "/bc4894cb-9ef9-4d80-9ba0-901cc46c914e"
-          (reference "CN2") (unit 1)
+          (reference "CN1") (unit 1)
         )
       )
     )
@@ -2159,7 +2159,7 @@
   (symbol (lib_id "292161-2:292161-2") (at 243.84 125.73 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e4638ee3-e17e-4929-99fa-47eff2ab48c0)
-    (property "Reference" "CN1" (at 247.65 121.92 0)
+    (property "Reference" "CN2" (at 247.65 121.92 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "CONN 2P" (at 247.65 124.46 0)
@@ -2179,7 +2179,7 @@
     (instances
       (project "sega-gamegear-audio-original"
         (path "/bc4894cb-9ef9-4d80-9ba0-901cc46c914e"
-          (reference "CN1") (unit 1)
+          (reference "CN2") (unit 1)
         )
       )
     )
