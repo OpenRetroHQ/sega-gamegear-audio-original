@@ -20,4 +20,9 @@
   (pad "3" thru_hole circle (at 0 10) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp 6cac8571-713a-4b38-afe6-72283101ae9a))
   (pad "4" thru_hole circle (at 2 10) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp 81052645-20a0-4eed-927a-a51c7ef42d7c))
   (pad "5" thru_hole circle (at 4 10) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp e1d1ebe5-101e-4e2e-a90c-b502d470551c))
+  (model "${KIPRJMOD}/libraries/3dmodels/EVUTV2B19A14.step"
+    (offset (xyz 0 -10 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
