@@ -12,8 +12,11 @@
     (property "Datasheet" "" (at 0 1.27 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "LCSC Part" "C499123" (at 0 -10.16 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (symbol "292161-6_0_0"
-      (rectangle (start 5.08 -8.89) (end -5.08 8.89)
+      (rectangle (start -5.08 8.89) (end 5.08 -8.89)
         (stroke (width 0.254) (type solid))
         (fill (type background))
       )
