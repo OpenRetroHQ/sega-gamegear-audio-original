@@ -10,7 +10,7 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 'EVUTV2B19A14.step',
-/* time_stamp */ '2023-12-12T00:18:29Z',
+/* time_stamp */ '2023-12-12T10:07:13Z',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20',
@@ -1144,15 +1144,15 @@ SOLID_ANGLE_UNIT()
 #1086=PRODUCT_DEFINITION_SHAPE('',$,#1089);
 #1087=SHAPE_REPRESENTATION('',(#673),#1079);
 #1088=PRODUCT_DEFINITION_CONTEXT('part definition',#1093,'design');
-#1089=PRODUCT_DEFINITION('wheelio','wheelio v4',#1090,#1088);
+#1089=PRODUCT_DEFINITION('wheelio','wheelio v7',#1090,#1088);
 #1090=PRODUCT_DEFINITION_FORMATION('',$,#1095);
-#1091=PRODUCT_RELATED_PRODUCT_CATEGORY('wheelio v4','wheelio v4',(#1095));
+#1091=PRODUCT_RELATED_PRODUCT_CATEGORY('wheelio v7','wheelio v7',(#1095));
 #1092=APPLICATION_PROTOCOL_DEFINITION('international standard',
 'automotive_design',2009,#1093);
 #1093=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #1094=PRODUCT_CONTEXT('part definition',#1093,'mechanical');
-#1095=PRODUCT('wheelio','wheelio v4',$,(#1094));
+#1095=PRODUCT('wheelio','wheelio v7',$,(#1094));
 #1096=PRESENTATION_STYLE_ASSIGNMENT((#1098));
 #1097=PRESENTATION_STYLE_ASSIGNMENT((#1099));
 #1098=SURFACE_STYLE_USAGE(.BOTH.,#1100);
