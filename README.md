@@ -1,5 +1,5 @@
 ## Latest Schematic
-![3d Rendering (Latest)](/screenshots/sega-gamegear-audio-original-sch.png?raw=true)
+![3D Rendering (Latest)](/screenshots/sega-gamegear-audio-original-sch.png?raw=true)
 
 ## Latest 3d Rendering
 ![3d Rendering (Latest)](/screenshots/sega-gamegear-audio-original.png?raw=true)
