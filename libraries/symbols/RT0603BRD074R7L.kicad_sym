@@ -15,7 +15,7 @@
     (property "LCSC Part" "C861448" (at 0 -12.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Manufacturer_Part_Number" "RT0603BRD07100RL" (at 0 -2.54 0)
+    (property "Manufacturer_Part_Number" "RT0603BRD074R7L" (at 0 -2.54 0)
       (effects (font (size 1.27 1.27)))
     )
     (symbol "RT0603BRD074R7L_0_1"
