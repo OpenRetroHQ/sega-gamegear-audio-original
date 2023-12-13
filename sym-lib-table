@@ -1,6 +1,6 @@
 (sym_lib_table
   (version 7)
-  (lib (name "TDA2882D")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/TDA2822D.kicad_sym")(options "")(descr ""))
+  (lib (name "TDA2822D")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/TDA2822D.kicad_sym")(options "")(descr ""))
   (lib (name "292161-2")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/292161-2.kicad_sym")(options "")(descr ""))
   (lib (name "292161-6")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/292161-6.kicad_sym")(options "")(descr ""))
   (lib (name "PJ-307A")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/PJ-307A.kicad_sym")(options "")(descr ""))
