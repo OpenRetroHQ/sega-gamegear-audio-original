@@ -13,4 +13,5 @@
   (lib (name "RT0603BRD0756KL")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/RT0603BRD0756KL.kicad_sym")(options "")(descr ""))
   (lib (name "GRM188R61A106KE69D")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/GRM188R61A106KE69D.kicad_sym")(options "")(descr ""))
   (lib (name "EVUTV2B19A14")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/EVUTV2B19A14.kicad_sym")(options "")(descr ""))
+  (lib (name "EEEFK1E101SP")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/EEEFK1E101SP.kicad_sym")(options "")(descr ""))
 )
