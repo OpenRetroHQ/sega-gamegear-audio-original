@@ -122,7 +122,7 @@
     (property "Sheetname" "")
     (path "/57c2db52-719b-419d-a4f2-565b5504b4bd")
     (attr smd)
-    (fp_text reference "R2" (at -2.6 0 90) (layer "F.SilkS")
+    (fp_text reference "R2" (at -2.6 0 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.2) bold))
       (tstamp ecf08127-d095-4f66-a534-906f62090ad1)
     )
@@ -185,7 +185,7 @@
     (property "ki_description" "Aluminium Electrolytic Capacitors - SMD 25VDC 100uF 20% 240mA")
     (path "/e74c9745-1540-4c22-9546-ba98de2d7359")
     (attr smd)
-    (fp_text reference "C2" (at 4.2 -3.6 180) (layer "F.SilkS")
+    (fp_text reference "C2" (at 4.2 -3.6 180) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.2) bold) (justify left))
       (tstamp 922431cc-746e-4b1f-959c-3a19786c996b)
     )
@@ -268,7 +268,7 @@
     (property "ki_description" "Multilayer Ceramic Capacitors MLCC - SMD/SMT 0.1uF 100Volts X7R 0.1")
     (path "/33fa178e-0146-4f51-9493-eded3f094f19")
     (attr smd)
-    (fp_text reference "C6" (at -2.464471 0) (layer "F.SilkS")
+    (fp_text reference "C6" (at -2.464471 0) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.2) bold))
       (tstamp 0a9c7d6d-0c68-4c43-9118-3190613cf61c)
     )
@@ -333,7 +333,7 @@
     (property "ki_description" "Multilayer Ceramic Capacitors MLCC - SMD/SMT 0.1uF 100Volts X7R 0.1")
     (path "/74979fa6-6b32-4cc6-9933-5d50caf2c225")
     (attr smd)
-    (fp_text reference "C4" (at -2.4 0) (layer "F.SilkS")
+    (fp_text reference "C4" (at -2.4 0) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.2) bold))
       (tstamp e9bf2df6-79b7-4299-a27a-936142c01852)
     )
@@ -396,7 +396,7 @@
     (property "ki_description" "Cap Aluminum Lytic 47uF 16V 20% (6.3 X 5.8mm) SMD 240mA 2000h 105C Automotive T/R")
     (path "/6477f662-b053-44ac-8035-f3931dfad833")
     (attr smd)
-    (fp_text reference "C5" (at 3.7 4.2 180) (layer "F.SilkS")
+    (fp_text reference "C5" (at 3.7 4.2 180) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.2) bold) (justify left))
       (tstamp 6bb26143-5bff-491a-9a43-5ee92fbc583e)
     )
@@ -473,7 +473,7 @@
     (property "Sheetname" "")
     (path "/b0de6e54-6c32-4100-88a9-a8fdb9433e1f")
     (attr through_hole exclude_from_pos_files)
-    (fp_text reference "J1" (at 8.6 5.3) (layer "F.SilkS")
+    (fp_text reference "J1" (at 8.6 5.3) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.2) bold))
       (tstamp 1e080d6b-ab0a-4087-9bf7-071888a50ad6)
     )
@@ -556,7 +556,7 @@
     (property "Sheetname" "")
     (path "/aee11b1d-beed-495d-b70f-aa3fc7d9bd4e")
     (attr smd)
-    (fp_text reference "R6" (at 2.62 -0.1 180) (layer "F.SilkS")
+    (fp_text reference "R6" (at 2.62 -0.1 180) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.2) bold))
       (tstamp 7a45a767-5745-4916-b9ed-d4a2a3d57018)
     )
@@ -621,7 +621,7 @@
     (property "ki_description" "Multilayer Ceramic Capacitors MLCC - SMD/SMT 0.1uF 100Volts X7R 0.1")
     (path "/8792e017-e5d4-45f8-8f87-3b883470f8e0")
     (attr smd)
-    (fp_text reference "C8" (at -2.484471 0) (layer "F.SilkS")
+    (fp_text reference "C8" (at -2.484471 0) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.2) bold))
       (tstamp 65b346f9-9587-45a3-bdb8-d383515be9d2)
     )
@@ -682,7 +682,7 @@
     (property "ki_keywords" "TDA2822D013TR")
     (path "/16f2fd35-db53-44ed-88ea-faaa6f5c8ec4")
     (attr smd)
-    (fp_text reference "IC1" (at 4.9 1.61745 unlocked) (layer "F.SilkS")
+    (fp_text reference "IC1" (at 4.9 1.61745 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.2) bold))
       (tstamp 9e8f0d43-8538-4687-8056-9a97ef8580ca)
     )
@@ -827,7 +827,7 @@
     (property "ki_description" "Aluminium Electrolytic Capacitors - SMD 25VDC 100uF 20% 240mA")
     (path "/c00a66a5-0f4e-44dc-8fc3-13cf65a70308")
     (attr smd)
-    (fp_text reference "C1" (at 4.2 1.5 180) (layer "F.SilkS")
+    (fp_text reference "C1" (at 4.2 1.5 180) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.2) bold) (justify left))
       (tstamp 204f33e9-13bd-47da-a939-381b096dcbb8)
     )
@@ -905,7 +905,7 @@
     (property "ki_keywords" "resistor variable")
     (path "/87fc71c3-fe1a-478f-8137-3dbfae741bad")
     (attr smd exclude_from_pos_files)
-    (fp_text reference "VR1" (at -3.4 12 unlocked) (layer "F.SilkS")
+    (fp_text reference "VR1" (at -3.4 12 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.2) bold))
       (tstamp e5289802-0548-4a6e-ac17-3197c47346e8)
     )
@@ -975,7 +975,7 @@
     (property "Sheetname" "")
     (path "/448a8459-346a-446a-902e-a1c0033caacb")
     (attr smd)
-    (fp_text reference "R3" (at 2.499664 0) (layer "F.SilkS")
+    (fp_text reference "R3" (at 2.499664 0) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.2) bold))
       (tstamp 91e011e3-25c9-4e89-bea1-e29b8009ad94)
     )
@@ -1038,7 +1038,7 @@
     (property "ki_description" "Aluminum Electrolytic Capacitors - SMD 330uF 6.3volts 6.3x5.8mm SMD")
     (path "/b21422f2-f7da-4a31-abf2-d6164daf0912")
     (attr smd)
-    (fp_text reference "C3" (at 1.4 4.3) (layer "F.SilkS")
+    (fp_text reference "C3" (at 1.4 4.3) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.2) bold) (justify left))
       (tstamp f5b55aa7-0026-4e74-9889-f2de1601e7a1)
     )
@@ -1115,7 +1115,7 @@
     (property "Sheetname" "")
     (path "/198e03a3-2fb9-4566-b49e-339a697f959b")
     (attr through_hole)
-    (fp_text reference "CN1" (at -14 0.1) (layer "F.SilkS")
+    (fp_text reference "CN1" (at -14 0.1) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.2) bold))
       (tstamp 52c290c3-6e64-4fef-89a6-7d981d4c3c94)
     )
@@ -1185,7 +1185,7 @@
     (property "Sheetname" "")
     (path "/5719c386-3dd3-4abf-aa05-32942d4c589d")
     (attr smd)
-    (fp_text reference "R1" (at -2.5 0 90) (layer "F.SilkS")
+    (fp_text reference "R1" (at -2.5 0 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.2) bold))
       (tstamp 52997a25-f048-4e17-b1d0-ef1b87220e1e)
     )
@@ -1245,7 +1245,7 @@
     (property "Sheetname" "")
     (path "/e0655db7-4157-4a06-869c-071bb0ca6538")
     (attr smd)
-    (fp_text reference "R4" (at 2.62 0) (layer "F.SilkS")
+    (fp_text reference "R4" (at 2.62 0) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.2) bold))
       (tstamp 9eb8a027-df3b-4e35-b096-6b4150e0d485)
     )
@@ -1307,7 +1307,7 @@
     (property "Sheetname" "")
     (path "/db8da953-8af1-4b0f-86c0-0e058420583d")
     (attr smd)
-    (fp_text reference "C9" (at -2.4 0.025) (layer "F.SilkS")
+    (fp_text reference "C9" (at -2.4 0.025) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.2) bold))
       (tstamp 5e48c8c8-72e5-4d5c-83e4-8ded122b37f2)
     )
@@ -1397,7 +1397,7 @@
     (property "Sheetname" "")
     (path "/c0c9ddd5-ab02-494c-8e98-3b1c1167eda3")
     (attr smd)
-    (fp_text reference "R5" (at 2.635529 0 180) (layer "F.SilkS")
+    (fp_text reference "R5" (at 2.635529 0 180) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.2) bold))
       (tstamp 02b70f7f-b860-445e-abb7-3193cf613ec8)
     )
@@ -1457,7 +1457,7 @@
     (property "Sheetname" "")
     (path "/e4638ee3-e17e-4929-99fa-47eff2ab48c0")
     (attr through_hole)
-    (fp_text reference "CN2" (at -2.2 -2.7) (layer "F.SilkS")
+    (fp_text reference "CN2" (at -2.2 -2.7) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.2) bold))
       (tstamp adc5c033-17ce-4201-aaf4-a7227a6fcede)
     )
@@ -1522,7 +1522,7 @@
     (property "ki_description" "Cap Aluminum Lytic 47uF 16V 20% (6.3 X 5.8mm) SMD 240mA 2000h 105C Automotive T/R")
     (path "/d3eeb939-b386-4ccb-a466-e346cc83d934")
     (attr smd)
-    (fp_text reference "C7" (at -3.4 -1.5 180) (layer "F.SilkS")
+    (fp_text reference "C7" (at -3.4 -1.5 180) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.2) bold) (justify left))
       (tstamp 49180cab-ed50-4c6b-aa52-945c53a17154)
     )
